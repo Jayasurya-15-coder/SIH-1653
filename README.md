@@ -27,18 +27,18 @@ Create a categorized question bank based on different expertise areas (e.g., eng
 Questions should range from basic to advanced levels, depending on the candidate's experience and the position applied for.
 ### c. Dynamic Question Selection
 Implement an algorithm that selects questions based on the candidate's profile, ensuring relevance to their expertise and the job requirements.
-### 3.  Overall Scoring and Feedback
-## a. Aggregate Scoring
+## 3.  Overall Scoring and Feedback
+### a. Aggregate Scoring
 Calculate an overall score for each candidate based on the relevancy of questions asked and the quality of their responses.
 Provide a breakdown of scores in different categories (e.g., technical knowledge, managerial skills, communication).
-## b. Feedback Mechanism
+### b. Feedback Mechanism
 After the interview, generate a feedback report for candidates, highlighting strengths and areas for improvement.
 Allow interviewers to provide qualitative feedback alongside quantitative scores.
-### 4. Scoring Mechanism
-## a. Question Relevancy Scoring
+## 4. Scoring Mechanism
+### a. Question Relevancy Scoring
 Develop a scoring system for interviewers to rate the relevancy of each question to the candidate's expertise on a scale (e.g., 1-5).
 Use machine learning to analyze past interviews and refine the question bank based on effectiveness.
-## b. Candidate Response Evaluation
+### b. Candidate Response Evaluation
 Create a rubric for interviewers to evaluate candidate responses based on clarity, depth of knowledge, and relevance to the question asked.
 Implement a scoring system (e.g., 1-5) for each response, allowing for quantitative assessment.
 
